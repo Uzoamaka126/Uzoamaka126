@@ -18,4 +18,4 @@ Asides from the blood and tears, I love learning and I look forward to it everyd
 😄 Pronouns: She/Her
 
 ## Stack ⚡
-- Stack: JavaScript, NodeJs, AWS, React, VueJs
+JavaScript, NodeJs, AWS, React, VueJs
