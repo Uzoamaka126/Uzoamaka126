@@ -2,7 +2,7 @@
 
 I am Uzoamaka Anyanwu, a software Engineer living in Lagos, Nigeria.
 
-I build things for the web with CSS, JavaScript and TypeScript :muscle:
+I build software applications with CSS, JavaScript, Node, SQL and TypeScript :muscle:
 
 ## Other Info 
 🌱 I’m currently learning AWS and Python.
@@ -12,8 +12,6 @@ I build things for the web with CSS, JavaScript and TypeScript :muscle:
 💬 Ask me about Anime, Crime Shows, Architecture and movie recommendations.
 
 📫 How to reach me: through my email in my bio.
-
-😄 Pronouns: She/Her
 
 ## Stack ⚡
 JavaScript, NodeJs, AWS, React, VueJs
