@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Uzoamaka Anyanwu, a software Engineer.
+I am Uzoamaka Anyanwu, a Full Stack Developer.
 
 I build things with CSS, JavaScript, NodeJs, React, SQL and TypeScript :muscle:
 
