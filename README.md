@@ -14,4 +14,4 @@ I build things with CSS, JavaScript, NodeJs, React, SQL and TypeScript :muscle:
 📫 How to reach me: through the email in my bio.
 
 ## Stack ⚡
-JavaScript, NodeJs, AWS, React, TypeScript, CSS, Docker & Git
+JavaScript, NodeJs, React, TypeScript, CSS, & Git
